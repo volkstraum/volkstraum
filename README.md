@@ -1,4 +1,11 @@
-<img width="622" height="352" alt="volkstraum" src="https://github.com/user-attachments/assets/e682dc4d-b074-41fc-8c54-2ea364e567ce" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/e682dc4d-b074-41fc-8c54-2ea364e567ce"
+    alt="volkstraum"
+    width="622"
+  />
+</p>
+
 ### About Volkstraum
 Volkstraum is a mnemonic of my Chinese name, Sifan (思凡). 思 denotes thought, while 凡 gestures toward both the ordinary and the extraordinary. The tension between these ideas has shaped my thinking throughout my life. Only through interdisciplinary study across philosophy, art, and computation have I come to understand this contradiction not as something to resolve, but as something to inhabit.
 
