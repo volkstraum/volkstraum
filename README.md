@@ -6,6 +6,8 @@
   />
 </p>
 
+### Welcome!
+Hi! Welcome to my Github. Here you can find code-based documentation of the various projects I've worked on. These repositories are snippets of work I've done with Data Visualization, Machine Learning Algorithms, Fine-tuning, CLIP embeddings, and various other techniques. As such, this space anchors as a technical demonstration of my abilities, supplementing my other more theoretiacl and creative aspects.
 
 ### About Volkstraum
 Volkstraum is a mnemonic of my Chinese name, Sifan (思凡). 思 denotes thought, while 凡 gestures toward both the ordinary and the extraordinary. The tension between these ideas has shaped my thinking throughout my life. Only through interdisciplinary study across philosophy, art, and computation have I come to understand this contradiction not as something to resolve, but as something to inhabit.
