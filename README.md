@@ -13,7 +13,7 @@ Hi! Welcome to my Github. Here you can find code-based documentation of the vari
 - Fine-tuning
 - CLIP embeddings
 
-As such, this space anchors as a technical demonstration of my abilities, supplementing my other more theoretiacl and creative aspects.
+As such, this space anchors as a technical demonstration of my abilities, supplementing my other more theoretical and creative aspects.
 
 ### About Volkstraum
 Volkstraum is a mnemonic of my Chinese name, Sifan (思凡). 思 denotes thought, while 凡 gestures toward both the ordinary and the extraordinary. The tension between these ideas has shaped my thinking throughout my life. Only through interdisciplinary study across philosophy, art, and computation have I come to understand this contradiction not as something to resolve, but as something to inhabit.
